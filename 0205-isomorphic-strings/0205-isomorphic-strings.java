@@ -3,7 +3,7 @@ class Solution {
         HashMap<Character, Character> hm = new HashMap<>();
         for (int i = 0; i < s.length(); i++){
             if (hm.containsKey(s.charAt(i))){
-                if(!(hm.get(s.charAt(i)).equals(t.charAt(i)))){
+                if (!(hm.get(s.charAt(i)).equals(t.charAt(i)))){
                     return false;
                 }
             }
