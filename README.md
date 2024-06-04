@@ -4,6 +4,7 @@
 # Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0217-contains-duplicate) |
 # Hash Table
@@ -17,4 +18,5 @@
 # Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0027-remove-element) |
