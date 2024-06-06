@@ -8,10 +8,10 @@ class Solution:
 
         if x < 0:
             return False
-        # if x == 0:  # special case
-        #     return True
-        # if x % 10 == 0: # x mod 10 which is getting the last digit and the last digit is 0, then we also know that it's not a palindrome (ex: 30 is not a palindrome)
-        #     return False
+        if x == 0:  # special case
+            return True
+        if x % 10 == 0: # x mod 10 which is getting the last digit and the last digit is 0, then we also know that it's not a palindrome (ex: 30 is not a palindrome)
+            return False
 
         originalX = x
         numReversed = 0
