@@ -24,3 +24,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0009-palindrome-number) |
+# String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0058-length-of-last-word) |
