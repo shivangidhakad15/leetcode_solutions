@@ -28,6 +28,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0268-missing-number) |
+| [2383-add-two-integers](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2383-add-two-integers) |
 # String
 |  |
 | ------- |
