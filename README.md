@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0268-missing-number) |
+| [1168-duplicate-zeros](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1168-duplicate-zeros) |
 | [1677-matrix-diagonal-sum](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1677-matrix-diagonal-sum) |
 # Hash Table
 |  |
@@ -24,6 +25,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0027-remove-element) |
+| [1168-duplicate-zeros](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1168-duplicate-zeros) |
 # Math
 |  |
 | ------- |
