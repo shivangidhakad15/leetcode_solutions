@@ -10,6 +10,7 @@
 | [0268-missing-number](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0268-missing-number) |
 | [1168-duplicate-zeros](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1168-duplicate-zeros) |
 | [1677-matrix-diagonal-sum](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1677-matrix-diagonal-sum) |
+| [2048-build-array-from-permutation](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2048-build-array-from-permutation) |
 # Hash Table
 |  |
 | ------- |
@@ -48,3 +49,7 @@
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1677-matrix-diagonal-sum) |
+# Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2048-build-array-from-permutation) |
