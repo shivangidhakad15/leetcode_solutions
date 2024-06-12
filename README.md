@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0217-contains-duplicate](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0268-missing-number) |
 | [1168-duplicate-zeros](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1168-duplicate-zeros) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0268-missing-number) |
 | [2383-add-two-integers](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2383-add-two-integers) |
 # String
@@ -48,6 +50,7 @@
 # Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0048-rotate-image) |
 | [1677-matrix-diagonal-sum](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1677-matrix-diagonal-sum) |
 # Simulation
 |  |
