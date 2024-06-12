@@ -9,6 +9,7 @@
 | [0048-rotate-image](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0217-contains-duplicate](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0268-missing-number) |
+| [0777-toeplitz-matrix](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [1168-duplicate-zeros](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1168-duplicate-zeros) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0048-rotate-image) |
+| [0777-toeplitz-matrix](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1677-matrix-diagonal-sum) |
