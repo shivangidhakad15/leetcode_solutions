@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0058-length-of-last-word) |
+| [0812-rotate-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0812-rotate-string) |
 # Binary Search
 |  |
 | ------- |
@@ -66,3 +67,7 @@
 | [0861-flipping-an-image](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [2048-build-array-from-permutation](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2048-build-array-from-permutation) |
+# String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0812-rotate-string) |
