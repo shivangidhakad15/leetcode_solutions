@@ -5,5 +5,5 @@ class Solution:
         #         return True
         # return False
 
-        return len(s) == len(goal) and goal in s+s
+        return len(s) == len(goal) and s in goal+goal
         
