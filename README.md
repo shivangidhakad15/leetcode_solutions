@@ -13,6 +13,7 @@
 | [0861-flipping-an-image](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [1168-duplicate-zeros](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1168-duplicate-zeros) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1677-matrix-diagonal-sum) |
 | [2048-build-array-from-permutation](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2048-build-array-from-permutation) |
 | [3330-modify-the-matrix](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3330-modify-the-matrix) |
@@ -61,6 +62,7 @@
 | [0777-toeplitz-matrix](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0898-transpose-matrix) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1677-matrix-diagonal-sum) |
 | [3330-modify-the-matrix](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3330-modify-the-matrix) |
 # Simulation
