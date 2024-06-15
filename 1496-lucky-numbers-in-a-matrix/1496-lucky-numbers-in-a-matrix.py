@@ -11,9 +11,9 @@ class Solution:
         ans = []
         for c in range(col):
             max_val = max(matrix[r][c] for r in range(row))
-
             if max_val in val:
                 ans.append(max_val)
+                
         return ans
 
         
