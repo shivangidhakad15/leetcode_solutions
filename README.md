@@ -16,6 +16,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1677-matrix-diagonal-sum) |
 | [2048-build-array-from-permutation](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2048-build-array-from-permutation) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [3330-modify-the-matrix](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3330-modify-the-matrix) |
 # Hash Table
 |  |
@@ -64,6 +65,7 @@
 | [0898-transpose-matrix](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1677-matrix-diagonal-sum) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [3330-modify-the-matrix](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3330-modify-the-matrix) |
 # Simulation
 |  |
