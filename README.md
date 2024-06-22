@@ -4,6 +4,7 @@
 # Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0048-rotate-image) |
@@ -21,6 +22,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0268-missing-number) |
 # Sorting
