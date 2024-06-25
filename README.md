@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0048-rotate-image) |
+| [0169-majority-element](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0268-missing-number) |
 | [0777-toeplitz-matrix](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0777-toeplitz-matrix) |
@@ -23,11 +24,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0268-missing-number) |
 # Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0268-missing-number) |
 # Two Pointers
@@ -79,3 +82,11 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0812-rotate-string) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0169-majority-element) |
+# Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0169-majority-element) |
