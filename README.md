@@ -90,3 +90,14 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0169-majority-element) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0812-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0812-rotate-string) |
+<!---LeetCode Topics End-->
