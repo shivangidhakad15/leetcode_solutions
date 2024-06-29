@@ -100,4 +100,12 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0812-rotate-string) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
