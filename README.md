@@ -126,4 +126,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
