@@ -135,4 +135,5 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 <!---LeetCode Topics End-->
