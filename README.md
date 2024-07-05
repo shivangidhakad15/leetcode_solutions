@@ -121,6 +121,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -130,4 +131,8 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0007-reverse-integer) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
