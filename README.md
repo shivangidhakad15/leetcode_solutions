@@ -95,6 +95,7 @@
 ## String
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0415-add-strings) |
 | [0812-rotate-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0812-rotate-string) |
 ## String Matching
 |  |
@@ -136,6 +137,7 @@
 | [0007-reverse-integer](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0415-add-strings) |
 ## Array
 |  |
 | ------- |
@@ -166,6 +168,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0415-add-strings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
