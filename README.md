@@ -135,6 +135,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0258-add-digits) |
 ## Array
 |  |
 | ------- |
@@ -164,6 +165,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0258-add-digits) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -178,4 +180,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
