@@ -135,6 +135,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0415-add-strings) |
@@ -142,6 +143,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
