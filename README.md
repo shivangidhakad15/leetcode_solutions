@@ -96,6 +96,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0415-add-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0415-add-strings) |
 | [0812-rotate-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0812-rotate-string) |
 ## String Matching
@@ -180,6 +181,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 ## Union Find
 |  |
 | ------- |
