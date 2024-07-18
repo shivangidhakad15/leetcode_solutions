@@ -100,6 +100,7 @@
 | [0242-valid-anagram](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0415-add-strings) |
 | [0812-rotate-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0812-rotate-string) |
+| [2032-largest-odd-number-in-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 | [0258-add-digits](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0415-add-strings) |
 | [1031-add-to-array-form-of-integer](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1031-add-to-array-form-of-integer) |
+| [2032-largest-odd-number-in-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -201,4 +203,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
