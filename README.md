@@ -100,6 +100,7 @@
 | [0205-isomorphic-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0415-add-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -169,6 +170,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -191,6 +193,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Union Find
 |  |
 | ------- |
@@ -211,4 +214,16 @@
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
