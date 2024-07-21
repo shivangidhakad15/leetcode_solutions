@@ -95,6 +95,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0205-isomorphic-strings) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0258-add-digits) |
@@ -191,6 +193,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0205-isomorphic-strings) |
