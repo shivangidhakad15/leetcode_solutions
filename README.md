@@ -95,6 +95,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -130,6 +131,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0189-rotate-array) |
@@ -182,6 +184,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
