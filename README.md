@@ -162,6 +162,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0075-sort-colors) |
@@ -196,6 +197,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0415-add-strings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -218,6 +220,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 ## Number Theory
 |  |
