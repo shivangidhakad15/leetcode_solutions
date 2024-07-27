@@ -122,6 +122,7 @@
 | [0234-palindrome-linked-list](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0908-middle-of-the-linked-list) |
+| [2411-spiral-matrix-iv](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2411-spiral-matrix-iv) |
 ## Recursion
 |  |
 | ------- |
@@ -176,6 +177,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2411-spiral-matrix-iv](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2411-spiral-matrix-iv) |
 ## Sorting
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 | [0258-add-digits](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0415-add-strings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2411-spiral-matrix-iv](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2411-spiral-matrix-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -222,6 +225,7 @@
 | [0054-spiral-matrix](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
+| [2411-spiral-matrix-iv](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2411-spiral-matrix-iv) |
 ## Number Theory
 |  |
 | ------- |
