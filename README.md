@@ -133,6 +133,7 @@
 | [0231-power-of-two](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,6 +161,7 @@
 | [0231-power-of-two](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0415-add-strings) |
 | [1031-add-to-array-form-of-integer](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1965-sum-of-digits-in-base-k](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1965-sum-of-digits-in-base-k) |
@@ -276,4 +278,5 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
