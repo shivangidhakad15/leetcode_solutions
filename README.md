@@ -166,6 +166,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1965-sum-of-digits-in-base-k](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1965-sum-of-digits-in-base-k) |
 | [2032-largest-odd-number-in-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Array
 |  |
 | ------- |
@@ -184,6 +185,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2411-spiral-matrix-iv](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2411-spiral-matrix-iv) |
 ## Sorting
@@ -239,6 +241,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0258-add-digits) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Trie
 |  |
 | ------- |
