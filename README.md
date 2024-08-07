@@ -114,6 +114,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2816-lexicographically-smallest-palindrome) |
 ## String Matching
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 | [0680-valid-palindrome-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -263,6 +265,7 @@
 | [0680-valid-palindrome-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
