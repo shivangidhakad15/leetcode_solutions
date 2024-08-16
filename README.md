@@ -206,6 +206,7 @@
 | [0283-move-zeroes](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0624-maximum-distance-in-arrays](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [1031-add-to-array-form-of-integer](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -281,6 +282,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0409-longest-palindrome) |
+| [0624-maximum-distance-in-arrays](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
