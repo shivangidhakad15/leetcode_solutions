@@ -179,6 +179,7 @@
 | [0189-rotate-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0342-power-of-four) |
