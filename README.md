@@ -184,6 +184,7 @@
 | [0326-power-of-three](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0415-add-strings) |
+| [0650-2-keys-keyboard](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0650-2-keys-keyboard) |
 | [1031-add-to-array-form-of-integer](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1965-sum-of-digits-in-base-k](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1965-sum-of-digits-in-base-k) |
@@ -239,6 +240,7 @@
 | [0053-maximum-subarray](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0650-2-keys-keyboard) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Simulation
 |  |
