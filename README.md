@@ -187,6 +187,7 @@
 | [0650-2-keys-keyboard](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0650-2-keys-keyboard) |
 | [1031-add-to-array-form-of-integer](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1240-stone-game-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1240-stone-game-ii) |
 | [1965-sum-of-digits-in-base-k](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1965-sum-of-digits-in-base-k) |
 | [2032-largest-odd-number-in-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -211,6 +212,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [1031-add-to-array-form-of-integer](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1031-add-to-array-form-of-integer) |
+| [1240-stone-game-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1240-stone-game-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -241,6 +243,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0650-2-keys-keyboard) |
+| [1240-stone-game-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Simulation
 |  |
@@ -323,10 +326,15 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1240-stone-game-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1240-stone-game-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0342-power-of-four) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
