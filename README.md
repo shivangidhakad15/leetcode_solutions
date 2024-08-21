@@ -151,6 +151,7 @@
 | [0016-3sum-closest](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -167,6 +168,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -197,6 +199,7 @@
 | [0015-3sum](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
@@ -239,6 +242,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0264-ugly-number-ii) |
@@ -337,4 +341,8 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1240-stone-game-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
