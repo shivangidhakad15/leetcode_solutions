@@ -114,6 +114,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1651-shuffle-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1651-shuffle-string) |
+| [1666-make-the-string-great](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -175,6 +176,7 @@
 | [0042-trapping-rain-water](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1666-make-the-string-great](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Math
 |  |
