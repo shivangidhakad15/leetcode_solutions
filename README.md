@@ -233,6 +233,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2411-spiral-matrix-iv](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2411-spiral-matrix-iv) |
 | [2547-odd-string-difference](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2547-odd-string-difference) |
@@ -270,6 +271,7 @@
 | [0258-add-digits](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0415-add-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2411-spiral-matrix-iv](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2411-spiral-matrix-iv) |
 ## Hash Table
@@ -300,6 +302,7 @@
 | [0059-spiral-matrix-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2411-spiral-matrix-iv) |
 ## Number Theory
 |  |
