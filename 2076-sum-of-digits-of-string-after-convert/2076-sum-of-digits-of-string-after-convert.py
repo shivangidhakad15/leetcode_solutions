@@ -4,12 +4,14 @@ class Solution:
         for i in s:
             num = ord(i)-96
             res += str(num)
-        for _ in range(k):
+
+        while k > 0:
             sum = 0
             for i in res:
                 sum += int(i)
             res = str(sum)
-        return sum
+            k -= 1
+        return int(res)
 
             
         
