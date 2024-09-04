@@ -114,6 +114,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1472-increasing-decreasing-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1472-increasing-decreasing-string) |
+| [1532-reformat-the-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1532-reformat-the-string) |
 | [1651-shuffle-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1651-shuffle-string) |
 | [1666-make-the-string-great](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
