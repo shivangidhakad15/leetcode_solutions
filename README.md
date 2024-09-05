@@ -225,6 +225,7 @@
 | [0283-move-zeroes](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [1031-add-to-array-form-of-integer](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1240-stone-game-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1240-stone-game-ii) |
@@ -247,6 +248,7 @@
 | [0075-sort-colors](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0561-array-partition](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0561-array-partition) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
@@ -318,6 +320,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -369,4 +372,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
