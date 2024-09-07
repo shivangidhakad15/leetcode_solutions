@@ -224,6 +224,7 @@
 | [0189-rotate-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0624-maximum-distance-in-arrays) |
@@ -289,6 +290,7 @@
 | [0264-ugly-number-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0264-ugly-number-ii) |
 | [0409-longest-palindrome](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0525-contiguous-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1472-increasing-decreasing-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1472-increasing-decreasing-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -356,6 +358,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1240-stone-game-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1240-stone-game-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
