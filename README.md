@@ -376,6 +376,7 @@
 | [0231-power-of-two](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0476-number-complement) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Game Theory
 |  |
 | ------- |
