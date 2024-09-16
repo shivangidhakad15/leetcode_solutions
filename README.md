@@ -108,6 +108,7 @@
 | [0409-longest-palindrome](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0539-minimum-time-difference](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0812-rotate-string) |
@@ -200,6 +201,7 @@
 | [0326-power-of-three](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0415-add-strings) |
+| [0539-minimum-time-difference](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0539-minimum-time-difference) |
 | [0650-2-keys-keyboard](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0650-2-keys-keyboard) |
 | [1031-add-to-array-form-of-integer](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -229,6 +231,7 @@
 | [0283-move-zeroes](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0525-contiguous-array) |
+| [0539-minimum-time-difference](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0624-maximum-distance-in-arrays) |
@@ -258,6 +261,7 @@
 | [0075-sort-colors](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0539-minimum-time-difference](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
