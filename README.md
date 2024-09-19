@@ -104,6 +104,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0205-isomorphic-strings) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0409-longest-palindrome) |
@@ -156,6 +157,7 @@
 | [0206-reverse-linked-list](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0342-power-of-four) |
 ## Two Pointers
@@ -197,6 +199,7 @@
 | [0066-plus-one](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0264-ugly-number-ii) |
@@ -283,6 +286,7 @@
 | [0042-trapping-rain-water](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1240-stone-game-ii) |
@@ -429,4 +433,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
