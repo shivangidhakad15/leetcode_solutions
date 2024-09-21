@@ -348,6 +348,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0386-lexicographical-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -447,4 +448,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0214-shortest-palindrome) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
