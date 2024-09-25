@@ -213,6 +213,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1240-stone-game-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1240-stone-game-ii) |
+| [1610-xor-operation-in-an-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1965-sum-of-digits-in-base-k](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1965-sum-of-digits-in-base-k) |
 | [2032-largest-odd-number-in-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -415,6 +416,7 @@
 | [0476-number-complement](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1610-xor-operation-in-an-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
