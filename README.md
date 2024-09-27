@@ -128,6 +128,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2547-odd-string-difference](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2547-odd-string-difference) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2825-minimize-string-length](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2825-minimize-string-length) |
@@ -260,6 +261,7 @@
 | [2102-find-the-middle-index-in-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2411-spiral-matrix-iv](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -329,6 +331,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2547-odd-string-difference](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2547-odd-string-difference) |
 | [2825-minimize-string-length](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2825-minimize-string-length) |
 | [3324-split-the-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3324-split-the-array) |
@@ -387,6 +390,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3324-split-the-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3324-split-the-array) |
 ## Binary Search
 |  |
