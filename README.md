@@ -134,6 +134,7 @@
 | [2825-minimize-string-length](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2825-minimize-string-length) |
 | [3379-score-of-a-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3379-score-of-a-string) |
 | [3468-find-the-encrypted-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3468-find-the-encrypted-string) |
+| [3541-report-spam-message](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3541-report-spam-message) |
 ## String Matching
 |  |
 | ------- |
@@ -270,6 +271,7 @@
 | [2547-odd-string-difference](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2547-odd-string-difference) |
 | [3324-split-the-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3324-split-the-array) |
 | [3429-special-array-i](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3429-special-array-i) |
+| [3541-report-spam-message](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3541-report-spam-message) |
 ## Sorting
 |  |
 | ------- |
@@ -337,6 +339,7 @@
 | [2547-odd-string-difference](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2547-odd-string-difference) |
 | [2825-minimize-string-length](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2825-minimize-string-length) |
 | [3324-split-the-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3324-split-the-array) |
+| [3541-report-spam-message](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3541-report-spam-message) |
 ## Union Find
 |  |
 | ------- |
