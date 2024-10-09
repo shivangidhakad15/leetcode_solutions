@@ -116,6 +116,7 @@
 | [0680-valid-palindrome-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1472-increasing-decreasing-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1472-increasing-decreasing-string) |
@@ -194,6 +195,7 @@
 | [0020-valid-parentheses](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1666-make-the-string-great](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -372,6 +374,7 @@
 | [0561-array-partition](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2816-lexicographically-smallest-palindrome) |
