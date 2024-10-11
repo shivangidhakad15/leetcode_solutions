@@ -253,6 +253,7 @@
 | [0932-monotonic-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0948-sort-an-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1031-add-to-array-form-of-integer) |
+| [1217-relative-sort-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1217-relative-sort-array) |
 | [1240-stone-game-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -287,6 +288,7 @@
 | [0539-minimum-time-difference](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0948-sort-an-array) |
+| [1217-relative-sort-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
@@ -332,6 +334,7 @@
 | [0525-contiguous-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1217-relative-sort-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1217-relative-sort-array) |
 | [1472-increasing-decreasing-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1472-increasing-decreasing-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -447,6 +450,7 @@
 | ------- |
 | [0561-array-partition](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0948-sort-an-array) |
+| [1217-relative-sort-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1217-relative-sort-array) |
 ## Merge Sort
 |  |
 | ------- |
