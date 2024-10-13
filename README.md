@@ -253,6 +253,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0932-monotonic-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0948-sort-an-array) |
+| [0978-valid-mountain-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0978-valid-mountain-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1217-relative-sort-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1217-relative-sort-array) |
 | [1240-stone-game-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1240-stone-game-ii) |
