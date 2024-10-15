@@ -133,6 +133,7 @@
 | [2547-odd-string-difference](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2547-odd-string-difference) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2825-minimize-string-length](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2825-minimize-string-length) |
+| [3195-separate-black-and-white-balls](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3379-score-of-a-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3379-score-of-a-string) |
 | [3468-find-the-encrypted-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3468-find-the-encrypted-string) |
 | [3541-report-spam-message](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3541-report-spam-message) |
@@ -190,6 +191,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3195-separate-black-and-white-balls](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
 |  |
 | ------- |
@@ -386,6 +388,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3195-separate-black-and-white-balls](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
