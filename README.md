@@ -265,6 +265,7 @@
 | [1580-shuffle-the-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1651-shuffle-string) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -297,6 +298,7 @@
 | [1217-relative-sort-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Divide and Conquer
@@ -347,6 +349,7 @@
 | [1472-increasing-decreasing-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1472-increasing-decreasing-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2163-kth-distinct-string-in-an-array) |
