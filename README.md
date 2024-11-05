@@ -133,6 +133,7 @@
 | [2547-odd-string-difference](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2547-odd-string-difference) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2825-minimize-string-length](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2825-minimize-string-length) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3379-score-of-a-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3379-score-of-a-string) |
 | [3468-find-the-encrypted-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3468-find-the-encrypted-string) |
