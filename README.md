@@ -276,6 +276,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2411-spiral-matrix-iv](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -354,6 +355,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2547-odd-string-difference](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2547-odd-string-difference) |
 | [2825-minimize-string-length](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2825-minimize-string-length) |
 | [3324-split-the-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3324-split-the-array) |
@@ -418,6 +420,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3324-split-the-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3324-split-the-array) |
 ## Binary Search
 |  |
@@ -453,6 +456,7 @@
 | [1610-xor-operation-in-an-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Game Theory
 |  |
