@@ -122,6 +122,7 @@
 | [1472-increasing-decreasing-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1472-increasing-decreasing-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1532-reformat-the-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1532-reformat-the-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1651-shuffle-string) |
 | [1666-make-the-string-great](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -144,6 +145,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Linked List
 |  |
 | ------- |
@@ -189,6 +191,7 @@
 | [0541-reverse-string-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2816-lexicographically-smallest-palindrome) |
