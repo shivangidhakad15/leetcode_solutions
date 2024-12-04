@@ -136,6 +136,7 @@
 | [2547-odd-string-difference](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2547-odd-string-difference) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2825-minimize-string-length](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2825-minimize-string-length) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3379-score-of-a-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3379-score-of-a-string) |
@@ -198,6 +199,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
 |  |
