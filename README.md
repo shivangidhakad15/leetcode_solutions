@@ -267,6 +267,7 @@
 | [0948-sort-an-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0948-sort-an-array) |
 | [0978-valid-mountain-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0978-valid-mountain-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1031-add-to-array-form-of-integer) |
+| [1063-best-sightseeing-pair](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1063-best-sightseeing-pair) |
 | [1217-relative-sort-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1217-relative-sort-array) |
 | [1240-stone-game-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -330,6 +331,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0650-2-keys-keyboard) |
+| [1063-best-sightseeing-pair](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1063-best-sightseeing-pair) |
 | [1240-stone-game-ii](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Simulation
