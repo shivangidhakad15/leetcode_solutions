@@ -122,6 +122,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1472-increasing-decreasing-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1472-increasing-decreasing-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1524-string-matching-in-an-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1524-string-matching-in-an-array) |
 | [1532-reformat-the-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1532-reformat-the-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1651-shuffle-string) |
@@ -148,6 +149,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Linked List
 |  |
@@ -273,6 +275,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1524-string-matching-in-an-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1524-string-matching-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/1651-shuffle-string) |
