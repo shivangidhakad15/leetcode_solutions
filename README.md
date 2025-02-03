@@ -296,6 +296,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2547-odd-string-difference](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/2547-odd-string-difference) |
 | [3324-split-the-array](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3324-split-the-array) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3429-special-array-i) |
 | [3541-report-spam-message](https://github.com/shivangidhakad15/leetcode_solutions/tree/master/3541-report-spam-message) |
 ## Sorting
